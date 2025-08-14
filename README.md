@@ -1,6 +1,3 @@
-
-Projects that have i done based on domains - Data Science using python and Web design.
-
-To excel in Responsive Web design , the requirements are HTML, CSS
-
-For Data Science , the requirements are python and some machine learning libraries
+👩‍💻I build projects across two key domains: Web Development and Data Science.
+In Web development, my work involves creating responsive user interfaces with HTML and CSS.
+In Data Science, my work involves Python and a range of machine learning libraries.
